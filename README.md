@@ -1,2 +1,2 @@
 # Restaurant-Management-System-Project
-The project Restaurant Management System is built in Python programming language and it is  a desktop application with a much more complex ecosystem but simplifies the daily operations of a restaurant.
+The Restaurant Management System is a Python-based application designed to streamline the operations of a restaurant. It provides a user-friendly interface for restaurant staff and customers to manage orders, reservations, menu items, and inventory effectively.
